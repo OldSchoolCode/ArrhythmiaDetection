@@ -9,7 +9,6 @@ charset-normalizer==2.0.4
 clang==5.0
 click==8.0.1
 cycler==0.10.0
-dataclasses==0.8
 Flask==2.0.1
 flatbuffers==1.12
 gast==0.4.0
